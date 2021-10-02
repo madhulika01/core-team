@@ -1,3 +1,3 @@
-# core-team
+# Core-Team
 
-Sayan - Competitive Coding Lead.
+## Sayan - Competitive Coding Lead.
